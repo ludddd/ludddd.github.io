@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7a4073ec67ed3735ae578cd8f12cfaae:1/1$ -->
+<TextureAtlas imagePath="atlas01.png">
+    <SubTexture name="Smoke_1" x="585" y="2" width="64" height="64"/>
+    <SubTexture name="background" x="435" y="418" width="1275" height="400"/>
+    <SubTexture name="background_factory_01" x="2" y="820" width="434" height="437"/>
+    <SubTexture name="background_factory_02" x="2" y="418" width="431" height="330"/>
+    <SubTexture name="background_night" x="438" y="820" width="1275" height="500"/>
+    <SubTexture name="blob" x="981" y="2" width="64" height="64"/>
+    <SubTexture name="bullet_hero_01" x="60" y="2" width="85" height="32"/>
+    <SubTexture name="bullet_turret_01" x="271" y="2" width="47" height="48"/>
+    <SubTexture name="button" x="147" y="2" width="80" height="40"/>
+    <SubTexture name="double_popup" x="1171" y="86" width="150" height="126"/>
+    <SubTexture name="fire2" x="915" y="2" width="64" height="64"/>
+    <SubTexture name="first_place_02" x="1457" y="1322" width="268" height="563"/>
+    <SubTexture name="first_place_03" x="1727" y="1322" width="268" height="563"/>
+    <SubTexture name="first_place_04" x="1187" y="1322" width="268" height="563"/>
+    <SubTexture name="first_place_05" x="379" y="1322" width="268" height="563"/>
+    <SubTexture name="first_place_06" x="649" y="1322" width="536" height="563"/>
+    <SubTexture name="first_plane" x="110" y="86" width="451" height="101"/>
+    <SubTexture name="floor" x="2" y="86" width="106" height="90"/>
+    <SubTexture name="floor02" x="1047" y="2" width="960" height="82"/>
+    <SubTexture name="gatling_popup" x="1019" y="86" width="150" height="126"/>
+    <SubTexture name="green" x="2" y="2" width="10" height="10"/>
+    <SubTexture name="jetpack_popup" x="1475" y="86" width="150" height="126"/>
+    <SubTexture name="magnet_popup" x="1323" y="86" width="150" height="126"/>
+    <SubTexture name="middle_plane" x="2" y="214" width="960" height="202"/>
+    <SubTexture name="middle_plane_night" x="964" y="214" width="960" height="202"/>
+    <SubTexture name="mtrap1" x="229" y="2" width="40" height="40"/>
+    <SubTexture name="nitro_popup" x="715" y="86" width="150" height="126"/>
+    <SubTexture name="plane_popup" x="867" y="86" width="150" height="126"/>
+    <SubTexture name="platform01_end" x="400" y="2" width="77" height="62"/>
+    <SubTexture name="platform01_middle" x="479" y="2" width="104" height="62"/>
+    <SubTexture name="platform01_start" x="320" y="2" width="78" height="62"/>
+    <SubTexture name="red" x="14" y="2" width="10" height="10"/>
+    <SubTexture name="shield_popup" x="563" y="86" width="150" height="126"/>
+    <SubTexture name="smoke" x="849" y="2" width="64" height="64"/>
+    <SubTexture name="smoke2" x="783" y="2" width="64" height="64"/>
+    <SubTexture name="smoke3" x="717" y="2" width="64" height="64"/>
+    <SubTexture name="smoke4" x="651" y="2" width="64" height="64"/>
+    <SubTexture name="texture" x="26" y="2" width="32" height="32"/>
+    <SubTexture name="tutorial_background" x="2" y="1322" width="375" height="540"/>
+</TextureAtlas>

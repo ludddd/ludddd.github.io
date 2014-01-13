@@ -1,0 +1,36 @@
+{
+    "objects": [
+        {"x": 7, "y": 1.28, "preset": "default", "type": "box"},
+        {"x": 8, "y": 1.28, "preset": "default", "type": "box"},
+        {"x": 7, "y": 2.28, "preset": "default", "type": "box"},
+        {"x": 6, "y": 2.28, "preset": "default", "type": "coin"},
+        {"x": 6, "y": 3.28, "preset": "default", "type": "coin"},
+        {"x": 7, "y": 3.28, "preset": "default", "type": "coin"},
+        {
+            "x": 9,
+            "y": 2.28,
+            "preset": "default",
+            "width": 120,
+            "type": "trap"
+        },
+        {
+            "x": 12,
+            "y": 3.28,
+            "preset": "field_half",
+            "type": "trap_fixed"
+        },
+        {"x": 8, "y": 4.28, "preset": "default", "type": "shooter"},
+        {"x": 7, "y": 4.28, "preset": "default", "type": "coin"},
+        {
+            "y": 7.28,
+            "height": 120,
+            "width": 180,
+            "type": "mtrap",
+            "preset": "default",
+            "x": 8
+        },
+        {"x": 8, "y": 7.28, "preset": "default", "type": "coin"},
+        {"x": 10.33, "y": 5.97, "preset": "default", "type": "coin"}
+    ],
+    "params": {"startY": 3}
+}

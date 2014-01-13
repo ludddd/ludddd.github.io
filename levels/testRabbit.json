@@ -1,0 +1,83 @@
+{
+    "objects": [
+        {
+            "type": "rabbit",
+            "y": 6.28,
+            "width": 40,
+            "preset": "rabbit1",
+            "x": 2
+        },
+        {
+            "type": "rabbit",
+            "y": 7.28,
+            "width": 40,
+            "preset": "rabbit1",
+            "x": 6
+        },
+        {
+            "type": "rabbit",
+            "y": 1.28,
+            "width": 40,
+            "preset": "rabbit2",
+            "x": 10
+        },
+        {
+            "type": "rabbit",
+            "y": 4.28,
+            "width": 40,
+            "preset": "rabbit3",
+            "x": 12
+        },
+        {
+            "type": "rabbit",
+            "y": 6.28,
+            "width": 53,
+            "preset": "rabbit1",
+            "x": 23
+        },
+        {
+            "type": "rabbit",
+            "y": 2.28,
+            "width": 40,
+            "preset": "rabbit2",
+            "x": 29
+        },
+        {
+            "type": "rabbit",
+            "y": 4.28,
+            "width": 40,
+            "preset": "rabbit3",
+            "x": 36
+        },
+        {
+            "type": "rabbit",
+            "y": 7.28,
+            "width": 40,
+            "preset": "rabbit2",
+            "x": 46
+        },
+        {
+            "type": "rabbit",
+            "y": 8.28,
+            "width": 40,
+            "preset": "rabbit1",
+            "x": 49
+        },
+        {
+            "type": "rabbit",
+            "y": 6.28,
+            "width": 40,
+            "preset": "rabbit1",
+            "x": 58
+        },
+        {
+            "type": "rabbit",
+            "y": 7.28,
+            "width": 40,
+            "preset": "rabbit2",
+            "x": 53
+        }
+    ],
+    "buy4energy": false,
+    "params": {"startY": null}
+}

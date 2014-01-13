@@ -1,0 +1,13 @@
+{
+    "objects": [
+        {
+            "type": "box",
+            "y": 3.28,
+            "preset": "rabbit",
+            "width": 50,
+            "x": 12
+        }
+    ],
+    "buy4energy": false,
+    "params": {"startY": null}
+}

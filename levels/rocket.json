@@ -1,0 +1,40 @@
+{
+    "params": {"startY": 3},
+    "objects": [
+        {
+            "x": 3,
+            "y": 4.28,
+            "width": 660,
+            "preset": "default",
+            "type": "rocket"
+        },
+        {
+            "x": 21,
+            "y": 1.28,
+            "width": 1839,
+            "preset": "default",
+            "type": "rocket"
+        },
+        {
+            "x": 46,
+            "y": 3.28,
+            "width": 1860,
+            "preset": "default",
+            "type": "rocket"
+        },
+        {
+            "x": 3,
+            "y": 2.28,
+            "width": 665,
+            "preset": "default",
+            "type": "platform"
+        },
+        {
+            "x": 21,
+            "y": 2.28,
+            "width": 1809,
+            "preset": "default",
+            "type": "platform"
+        }
+    ]
+}

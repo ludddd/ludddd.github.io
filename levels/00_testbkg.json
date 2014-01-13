@@ -1,0 +1,12 @@
+{
+    "objects": [
+        {
+            "x": 11,
+            "y": 7.28,
+            "preset": "factory1",
+            "type": "background_objects"
+        },
+        {"x": 11, "y": 3.28, "preset": "battery", "type": "coin"}
+    ],
+    "params": {"startY": null}
+}

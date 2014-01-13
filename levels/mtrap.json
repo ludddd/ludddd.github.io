@@ -1,0 +1,14 @@
+{
+    "objects": [
+        {
+            "y": 7.28,
+            "height": 420,
+            "width": 550,
+            "type": "mtrap",
+            "preset": "default",
+            "mirror": true,
+            "x": 14
+        }
+    ],
+    "params": {"startY": 3}
+}

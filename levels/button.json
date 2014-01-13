@@ -1,0 +1,35 @@
+{
+    "objects": [
+        {
+            "x": 20,
+            "action": {"target": "trap1", "id": "deactivate"},
+            "y": 1.28,
+            "preset": "button1",
+            "type": "button"
+        },
+        {
+            "x": 23,
+            "action": {"target": "trap2", "id": "deactivate"},
+            "y": 1.28,
+            "preset": "button1",
+            "type": "button"
+        },
+        {
+            "y": 6.28,
+            "width": 161,
+            "type": "trap",
+            "preset": "default",
+            "id": "trap2",
+            "x": 22
+        },
+        {
+            "y": 5.28,
+            "width": 161,
+            "type": "trap",
+            "preset": "default",
+            "id": "trap1",
+            "x": 22
+        }
+    ],
+    "params": {"startY": 3}
+}

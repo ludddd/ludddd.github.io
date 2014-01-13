@@ -1,0 +1,8 @@
+{
+    "objects": [
+        {"x": 13, "y": 1.28, "preset": "gatling_box", "type": "coin"},
+        {"x": 40, "y": 1.28, "preset": "gatling_box", "type": "coin"},
+        {"x": 70, "y": 1.28, "preset": "gatling_box", "type": "coin"}
+    ],
+    "params": {"startY": 3}
+}

@@ -1,0 +1,45 @@
+{
+    "params": {"startY": null},
+    "background": "backgroundnight",
+    "objects": [
+        {
+            "type": "lantern",
+            "y": 3.95,
+            "preset": "default",
+            "x": 15.33
+        },
+        {"type": "coin", "y": 3.95, "preset": "default", "x": 14.67},
+        {"type": "coin", "y": 3.95, "preset": "default", "x": 16},
+        {"type": "coin", "y": 3.95, "preset": "default", "x": 23.67},
+        {"type": "coin", "y": 3.95, "preset": "default", "x": 25},
+        {"type": "coin", "y": 3.95, "preset": "default", "x": 31.33},
+        {"type": "coin", "y": 3.95, "preset": "default", "x": 32.67},
+        {
+            "type": "lantern",
+            "y": 3.95,
+            "preset": "default",
+            "x": 24.33
+        },
+        {"type": "lantern", "y": 3.95, "preset": "default", "x": 32},
+        {
+            "type": "towerstart",
+            "y": 1.61,
+            "preset": "default",
+            "x": -0.67
+        },
+        {
+            "type": "background_objects",
+            "y": 7.61,
+            "preset": "default",
+            "x": 15.65
+        },
+        {"type": "coin", "y": 3.61, "preset": "default", "x": 37},
+        {"type": "coin", "y": 2.95, "preset": "default", "x": 44},
+        {"type": "coin", "y": 3.61, "preset": "default", "x": 44},
+        {"type": "coin", "y": 4.28, "preset": "default", "x": 44},
+        {"type": "coin", "y": 4.95, "preset": "default", "x": 44},
+        {"type": "coin", "y": 2.95, "preset": "default", "x": 37},
+        {"type": "coin", "y": 4.28, "preset": "default", "x": 37}
+    ],
+    "buy4energy": false
+}

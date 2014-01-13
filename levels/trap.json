@@ -1,0 +1,19 @@
+{
+    "objects": [
+        {
+            "x": 6,
+            "y": 0.28,
+            "preset": "default",
+            "width": 161,
+            "type": "trap"
+        },
+        {
+            "x": 13,
+            "y": 0.28,
+            "preset": "default",
+            "width": 322,
+            "type": "trap"
+        }
+    ],
+    "params": {"startY": 3}
+}

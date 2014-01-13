@@ -1,0 +1,14 @@
+{
+"params" : {
+        "startY":3
+    },
+"objects" : 
+    [
+        {"type":"coin", "x":5, "y":1, "preset": "small"},
+        {"type":"coin", "x":7, "y":1, "preset": "small"},
+        {"type":"coin", "x":9, "y":1, "preset": "small"},
+        {"type":"coin", "x":11, "y":1, "preset": "small"},
+        {"type":"mtrap", "x":13, "y":3, "width":240, "height":240, "preset":"mtrap1", "mirror":false},
+        {"type":"exit", "x":32, "y" : 3}
+    ]
+}

@@ -1,0 +1,15 @@
+{
+"params" : {
+        "startY":3
+    },
+"objects" : 
+[
+{"type":"platform", "x":30, "y":3.0, "width":600, "height":50},
+{"type":"platform", "x":40, "y":4.5, "width":600, "height":100},
+{"type":"platform", "x":70, "y":1.8, "width":600, "height":50},
+{"type":"platform", "x":90, "y":1.5, "width":600, "height":50},
+{"type":"platform", "x":100, "y":1.0, "width":600, "height":50},
+{"type":"platform", "x":105, "y":3.0, "width":600, "height":50},
+{"type":"exit", "x":120, "y" : 3}
+]
+}

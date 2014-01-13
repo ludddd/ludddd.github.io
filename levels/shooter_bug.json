@@ -1,0 +1,43 @@
+{
+    "objects": [
+        {"type": "shooter", "y": 7.28, "preset": "default", "x": 19},
+        {"type": "shooter", "y": 7.28, "preset": "default", "x": 28},
+        {"type": "shooter", "y": 7.28, "preset": "default", "x": 38},
+        {"type": "shooter", "y": 8.28, "preset": "default", "x": 49},
+        {"type": "shooter", "y": 8.28, "preset": "default", "x": 60},
+        {"type": "shooter", "y": 8.28, "preset": "default", "x": 71},
+        {"type": "shooter", "y": 8.28, "preset": "default", "x": 82},
+        {"type": "shooter", "y": 6.28, "preset": "default", "x": 91},
+        {
+            "type": "shooter",
+            "y": 6.28,
+            "preset": "default",
+            "x": 100
+        },
+        {
+            "type": "shooter",
+            "y": 6.28,
+            "preset": "default",
+            "x": 112
+        },
+        {
+            "type": "shooter",
+            "y": 5.28,
+            "preset": "default",
+            "x": 124
+        },
+        {
+            "type": "shooter",
+            "y": 5.28,
+            "preset": "default",
+            "x": 134
+        },
+        {
+            "type": "shooter",
+            "y": 5.28,
+            "preset": "default",
+            "x": 148
+        }
+    ],
+    "params": {"startY": null}
+}

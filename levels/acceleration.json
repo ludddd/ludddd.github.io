@@ -1,0 +1,29 @@
+{
+    "params": {"startY": 3},
+    "objects": [
+        {
+            "x": 8,
+            "y": 7.28,
+            "preset": "default",
+            "type": "accelerating_section"
+        },
+        {
+            "x": 17,
+            "y": 7.28,
+            "preset": "default",
+            "type": "accelerating_section"
+        },
+        {
+            "x": 26,
+            "y": 7.28,
+            "preset": "default",
+            "type": "accelerating_section"
+        },
+        {
+            "x": 36,
+            "y": 7.28,
+            "preset": "default",
+            "type": "accelerating_section"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "params": {"startY": null},
+    "objects": [
+        {
+            "type": "box",
+            "y": 1.28,
+            "preset": "rabbit",
+            "width": 120,
+            "x": 9
+        },
+        {
+            "type": "rabbit",
+            "y": 6.28,
+            "preset": "rabbitOnBall",
+            "width": 50,
+            "x": 13
+        },
+        {
+            "type": "rabbit",
+            "y": 6.28,
+            "preset": "rabbitOnBall",
+            "width": 50,
+            "x": 19
+        },
+        {
+            "type": "rabbit",
+            "y": 6.28,
+            "preset": "rabbitOnBall",
+            "width": 50,
+            "x": 27
+        },
+        {
+            "type": "box",
+            "y": 1.28,
+            "preset": "rabbit",
+            "width": 50,
+            "x": 31
+        },
+        {
+            "type": "box",
+            "y": 3.28,
+            "preset": "rabbit",
+            "width": 50,
+            "x": 38
+        },
+        {
+            "type": "box",
+            "y": 7.28,
+            "preset": "rabbit",
+            "width": 50,
+            "x": 46
+        },
+        {
+            "type": "box",
+            "y": 7.28,
+            "preset": "rabbit",
+            "width": 50,
+            "x": 57
+        },
+        {
+            "type": "box",
+            "y": 7.28,
+            "preset": "rabbit",
+            "width": 50,
+            "x": 70
+        },
+        {
+            "type": "platform",
+            "y": 4.28,
+            "preset": "default",
+            "width": 353,
+            "x": 53
+        },
+        {
+            "type": "platform",
+            "y": 4.28,
+            "preset": "default",
+            "width": 1185,
+            "x": 68
+        },
+        {
+            "type": "platform",
+            "y": 3.28,
+            "preset": "default",
+            "width": 249,
+            "x": 63
+        },
+        {
+            "type": "platform",
+            "y": 2.28,
+            "preset": "default",
+            "width": 249,
+            "x": 60
+        },
+        {
+            "type": "box",
+            "y": 7.28,
+            "preset": "rabbit",
+            "width": 50,
+            "x": 79
+        },
+        {
+            "type": "rabbit",
+            "y": 7.28,
+            "preset": "rabbitOnBall",
+            "width": 50,
+            "x": 84
+        },
+        {"type": "comboText", "y": 2.28, "preset": "cool", "x": 20},
+        {"type": "comboText", "y": 3.28, "preset": "cool", "x": 21},
+        {"type": "comboText", "y": 4.28, "preset": "cool", "x": 22},
+        {"type": "box", "y": 5.28, "preset": "bulb", "x": 20},
+        {"type": "box", "y": 3.28, "preset": "bulb", "x": 22},
+        {
+            "type": "box",
+            "y": 6.28,
+            "preset": "rabbit",
+            "width": 50,
+            "x": 21
+        }
+    ],
+    "buy4energy": false
+}

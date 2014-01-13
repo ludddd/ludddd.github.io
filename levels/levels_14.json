@@ -1,0 +1,1660 @@
+{
+    "objects": [
+        {
+            "type": "shooter",
+            "preset": "default",
+            "y": 1.28,
+            "x": 23.67
+        },
+        {
+            "type": "trap",
+            "preset": "default",
+            "y": 0.28,
+            "width": 120,
+            "x": 35
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 1.95,
+            "width": 249,
+            "x": 46.33
+        },
+        {"type": "shooter", "preset": "default", "y": 2.95, "x": 48},
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 1.95,
+            "width": 977,
+            "x": 53.97
+        },
+        {"type": "box", "preset": "default", "y": 2.95, "x": 68.31},
+        {"type": "box", "preset": "default", "y": 2.95, "x": 66.97},
+        {"type": "box", "preset": "default", "y": 4.28, "x": 66.97},
+        {"type": "box", "preset": "default", "y": 4.28, "x": 68.31},
+        {"type": "box", "preset": "default", "y": 5.61, "x": 68.31},
+        {"type": "box", "preset": "default", "y": 5.61, "x": 66.97},
+        {"type": "box", "preset": "default", "y": 2.95, "x": 65.64},
+        {"type": "box", "preset": "default", "y": 4.28, "x": 65.64},
+        {"type": "box", "preset": "default", "y": 5.61, "x": 65.64},
+        {
+            "type": "trap_meteor",
+            "preset": "default",
+            "y": 0.28,
+            "x": 78.31
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 1.95,
+            "width": 1081,
+            "x": 84.97
+        },
+        {
+            "type": "macro",
+            "y": 3.9466666666666677,
+            "macroId": "coins_66",
+            "x": 85.63333333333334
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 71.3
+        },
+        {"type": "coin", "preset": "default", "y": 1.28, "x": 76.31},
+        {"type": "coin", "preset": "default", "y": 1.28, "x": 80.97},
+        {"type": "coin", "preset": "default", "y": 1.28, "x": 81.97},
+        {"type": "coin", "preset": "default", "y": 1.28, "x": 82.97},
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 27.666666666666668
+        },
+        {
+            "type": "macro",
+            "y": 3.2799999999999994,
+            "macroId": "coins_3x3",
+            "x": 41.666666666666664
+        },
+        {
+            "type": "macro",
+            "y": 2.9466666666666668,
+            "macroId": "coins5",
+            "x": 54.63333333333333
+        },
+        {
+            "type": "macro",
+            "y": 2.9466666666666668,
+            "macroId": "coins5",
+            "x": 59.63333333333333
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.95,
+            "width": 769,
+            "x": 104.64
+        },
+        {"type": "box", "preset": "default", "y": 3.95, "x": 112.64},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 113.97},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 115.31},
+        {
+            "type": "macro",
+            "y": 7.28,
+            "macroId": "coins_arrow",
+            "x": 117.96666666666664
+        },
+        {
+            "type": "shooter",
+            "preset": "default",
+            "y": 1.28,
+            "x": 114.64
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 108.63333333333335
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 1.28,
+            "x": 107.64
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 1.28,
+            "x": 106.64
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 1.28,
+            "x": 105.64
+        },
+        {
+            "type": "macro",
+            "y": 3.9466666666666677,
+            "macroId": "coins5",
+            "x": 105.3
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 3.95,
+            "x": 110.31
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 3.95,
+            "x": 111.31
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 127.64},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 128.97},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 127.64},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 128.97},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 127.64},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 128.97},
+        {
+            "type": "coin",
+            "preset": "gatling_box",
+            "y": 1.28,
+            "x": 132.97
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 1.95,
+            "width": 1081,
+            "x": 139.64
+        },
+        {"type": "box", "preset": "default", "y": 2.95, "x": 149.64},
+        {"type": "box", "preset": "default", "y": 2.95, "x": 150.97},
+        {"type": "box", "preset": "default", "y": 2.95, "x": 148.31},
+        {"type": "box", "preset": "default", "y": 4.28, "x": 148.31},
+        {"type": "box", "preset": "default", "y": 4.28, "x": 149.64},
+        {"type": "box", "preset": "default", "y": 4.28, "x": 150.97},
+        {"type": "box", "preset": "default", "y": 5.61, "x": 148.31},
+        {"type": "box", "preset": "default", "y": 5.61, "x": 149.64},
+        {"type": "box", "preset": "default", "y": 5.61, "x": 150.97},
+        {
+            "type": "macro",
+            "y": 5.946666666666667,
+            "macroId": "coins_3x3",
+            "x": 153.63333333333333
+        },
+        {
+            "type": "macro",
+            "y": 2.9466666666666668,
+            "macroId": "coins5",
+            "x": 140.3
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 2.95,
+            "x": 145.31
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 2.95,
+            "x": 146.31
+        },
+        {
+            "type": "trap_meteor",
+            "preset": "default",
+            "y": 0.28,
+            "x": 165.97
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 159.63333333333333
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 15.333333333333334
+        },
+        {
+            "type": "macro",
+            "y": 2.2799999999999994,
+            "macroId": "coins_66",
+            "x": 168.96666666666667
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 1.95,
+            "width": 1497,
+            "x": 187.97
+        },
+        {
+            "type": "trap_meteor",
+            "preset": "default",
+            "y": 1.95,
+            "x": 200.33
+        },
+        {
+            "type": "macro",
+            "y": 2.9466666666666668,
+            "macroId": "coins5",
+            "x": 189
+        },
+        {
+            "type": "macro",
+            "y": 2.9466666666666668,
+            "macroId": "coins5",
+            "x": 194
+        },
+        {"type": "box", "preset": "default", "y": 2.95, "x": 210.64},
+        {"type": "box", "preset": "default", "y": 2.95, "x": 209.31},
+        {"type": "box", "preset": "default", "y": 2.95, "x": 207.97},
+        {"type": "box", "preset": "default", "y": 4.28, "x": 207.97},
+        {"type": "box", "preset": "default", "y": 4.28, "x": 209.31},
+        {"type": "box", "preset": "default", "y": 4.28, "x": 210.64},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 219.64},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 220.97},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 222.31},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 223.64},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 224.97},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 226.31},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 227.64},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 228.97},
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 225.3
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 230.3
+        },
+        {"type": "box", "preset": "default", "y": 2.61, "x": 230.31},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 231.64},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 232.97},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 234.31},
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 3.61,
+            "width": 1289,
+            "x": 237.31
+        },
+        {
+            "type": "macro",
+            "y": 2.2799999999999994,
+            "macroId": "coins_66",
+            "x": 235.3
+        },
+        {
+            "type": "macro",
+            "y": 4.613333333333333,
+            "macroId": "coins5",
+            "x": 238.3
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 4.61,
+            "x": 243.31
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 4.61,
+            "x": 244.31
+        },
+        {"type": "box", "preset": "default", "y": 4.61, "x": 245.64},
+        {"type": "box", "preset": "default", "y": 4.61, "x": 246.97},
+        {"type": "box", "preset": "default", "y": 4.61, "x": 248.31},
+        {"type": "box", "preset": "default", "y": 5.95, "x": 245.64},
+        {"type": "box", "preset": "default", "y": 5.95, "x": 246.97},
+        {"type": "box", "preset": "default", "y": 5.95, "x": 248.31},
+        {
+            "type": "trap",
+            "preset": "default",
+            "y": 3.61,
+            "width": 120,
+            "x": 253.67
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 213.9666666666667
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 252.97},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 254.31},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 255.64},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 256.97},
+        {
+            "type": "macro",
+            "y": 2.2799999999999994,
+            "macroId": "coins_66",
+            "x": 260.6333333333333
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 280.31},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 281.64},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 282.97},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 280.31},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 281.64},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 282.97},
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 1.95,
+            "width": 977,
+            "x": 289.31
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.95,
+            "width": 1081,
+            "x": 307.64
+        },
+        {
+            "type": "trap_meteor",
+            "preset": "default",
+            "y": 1.95,
+            "x": 296.64
+        },
+        {
+            "type": "macro",
+            "y": 2.9466666666666668,
+            "macroId": "coins5",
+            "x": 290.3
+        },
+        {
+            "type": "macro",
+            "y": 2.9466666666666668,
+            "macroId": "coins5",
+            "x": 299.6333333333333
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 307.3
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 312.3
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 317.3
+        },
+        {
+            "type": "macro",
+            "y": 4.946666666666667,
+            "macroId": "coins_66",
+            "x": 308.3
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 328.31},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 329.64},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 330.97},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 328.31},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 329.64},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 330.97},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 328.31},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 329.64},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 330.97},
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 3.28,
+            "width": 873,
+            "x": 334.64
+        },
+        {
+            "type": "macro",
+            "y": 7.28,
+            "macroId": "coins_arrow",
+            "x": 339.96666666666664
+        },
+        {
+            "type": "macro",
+            "y": 2.2799999999999994,
+            "macroId": "coins_66",
+            "x": 334.96666666666664
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 4.28,
+            "width": 561,
+            "x": 350.64
+        },
+        {
+            "type": "macro",
+            "y": 5.28,
+            "macroId": "coins5",
+            "x": 351.3
+        },
+        {"type": "box", "preset": "default", "y": 5.28, "x": 356.64},
+        {"type": "box", "preset": "default", "y": 5.28, "x": 357.97},
+        {
+            "type": "shooter",
+            "preset": "default",
+            "y": 1.28,
+            "x": 357.97
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 351.96666666666664
+        },
+        {
+            "type": "shooter",
+            "preset": "default",
+            "y": 1.28,
+            "x": 302.97
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 362.97},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 364.31},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 365.64},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 362.97},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 364.31},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 362.97},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 364.31},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 365.64},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 365.64},
+        {
+            "type": "shooter",
+            "preset": "default",
+            "y": 1.28,
+            "x": 373.31
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 1.95,
+            "width": 873,
+            "x": 378.31
+        },
+        {
+            "type": "trap_meteor",
+            "preset": "default",
+            "y": 1.95,
+            "x": 384.97
+        },
+        {
+            "type": "macro",
+            "y": 2.9466666666666668,
+            "macroId": "coins5",
+            "x": 378.96666666666664
+        },
+        {
+            "type": "macro",
+            "y": 2.9466666666666668,
+            "macroId": "coins5",
+            "x": 387.3
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.95,
+            "width": 665,
+            "x": 394.64
+        },
+        {"type": "box", "preset": "default", "y": 3.95, "x": 403.64},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 402.31},
+        {
+            "type": "macro",
+            "y": 2.2799999999999994,
+            "macroId": "coins_66",
+            "x": 394.96666666666664
+        },
+        {
+            "type": "macro",
+            "y": 3.9466666666666677,
+            "macroId": "coins5",
+            "x": 395.6333333333333
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 3.95,
+            "x": 400.64
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 4.61,
+            "width": 665,
+            "x": 407.3
+        },
+        {
+            "type": "macro",
+            "y": 5.613333333333333,
+            "macroId": "coins5",
+            "x": 407.96666666666664
+        },
+        {
+            "type": "macro",
+            "y": 5.613333333333333,
+            "macroId": "coins5",
+            "x": 412.96666666666664
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 413.3},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 414.64},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 415.97},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 413.3},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 414.64},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 415.97},
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 1.95,
+            "width": 249,
+            "x": 427.64
+        },
+        {
+            "type": "shooter",
+            "preset": "default",
+            "y": 2.95,
+            "x": 429.3
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 437.64},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 438.97},
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.61,
+            "width": 249,
+            "x": 444.3
+        },
+        {
+            "type": "shooter",
+            "preset": "default",
+            "y": 3.61,
+            "x": 445.97
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 420.6333333333333
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 451.3},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 452.64},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 451.3},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 452.64},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 451.3},
+        {"type": "box", "preset": "default", "y": 3.95, "x": 452.64},
+        {
+            "type": "macro",
+            "y": 2.2799999999999994,
+            "macroId": "coins_66",
+            "x": 454.96666666666664
+        },
+        {
+            "type": "trap_meteor",
+            "preset": "default",
+            "y": 0.28,
+            "x": 473.3
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 476.3
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 481.3
+        },
+        {
+            "type": "shooter",
+            "preset": "default",
+            "y": 1.28,
+            "x": 488.3
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 491.3
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 1.95,
+            "width": 249,
+            "x": 498.97
+        },
+        {
+            "type": "shooter",
+            "preset": "default",
+            "y": 2.95,
+            "x": 500.64
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 506.97},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 508.3},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 506.97},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 508.3},
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 1.95,
+            "width": 249,
+            "x": 514.97
+        },
+        {
+            "type": "shooter",
+            "preset": "default",
+            "y": 2.95,
+            "x": 516.3
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 3.28,
+            "width": 353,
+            "x": 520.64
+        },
+        {
+            "type": "macro",
+            "y": 5.946666666666667,
+            "macroId": "coins_3x3",
+            "x": 522.6333333333333
+        },
+        {
+            "type": "macro",
+            "y": 2.2799999999999994,
+            "macroId": "coins_66",
+            "x": 521.9666666666666
+        },
+        {
+            "type": "trap",
+            "preset": "default",
+            "y": 0.28,
+            "width": 120,
+            "x": 540.67
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.28,
+            "width": 457,
+            "x": 477.3
+        },
+        {
+            "type": "trap",
+            "preset": "default",
+            "y": 2.28,
+            "width": 120,
+            "x": 480.33
+        },
+        {
+            "preset": "default",
+            "y": 6.28,
+            "width": 437.46808510621486,
+            "height": 40,
+            "type": "mtrap",
+            "x": 434.97
+        },
+        {
+            "preset": "default",
+            "y": 7.95,
+            "width": 40,
+            "height": 220,
+            "type": "mtrap",
+            "x": 136.31
+        },
+        {
+            "preset": "default",
+            "y": 5.28,
+            "width": 252.1276595744639,
+            "height": 40,
+            "type": "mtrap",
+            "x": 157.97
+        },
+        {
+            "type": "macro",
+            "y": 5.613333333333333,
+            "macroId": "coins_arrow",
+            "x": 483.96666666666664
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 543.9666666666666
+        },
+        {
+            "type": "macro",
+            "y": 1.2800000000000002,
+            "macroId": "coins5",
+            "x": 548.9666666666667
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 555.3},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 556.64},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 555.3},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 556.64},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 557.97},
+        {"type": "box", "preset": "default", "y": 2.61, "x": 557.97},
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.61,
+            "width": 353,
+            "x": 560.97
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 3.61,
+            "width": 1081,
+            "x": 567.97
+        },
+        {
+            "type": "macro",
+            "y": 5.613333333333333,
+            "macroId": "coins_66",
+            "x": 568.6333333333333
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 3.61,
+            "x": 561.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 3.61,
+            "x": 562.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 3.61,
+            "x": 563.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 3.61,
+            "x": 564.97
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 575.3},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 576.64},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 577.97},
+        {
+            "preset": "default",
+            "y": 7.28,
+            "width": 376.6595744682418,
+            "height": 40,
+            "type": "mtrap",
+            "x": 584.64
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 3.61,
+            "width": 457,
+            "x": 588.97
+        },
+        {
+            "type": "macro",
+            "y": 4.613333333333333,
+            "macroId": "coins5",
+            "x": 589.6666666666666
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 4.61,
+            "x": 594.67
+        },
+        {
+            "type": "macro",
+            "y": 2.2799999999999994,
+            "macroId": "coins_66",
+            "x": 581.6333333333333
+        },
+        {"type": "box", "preset": "default", "y": 1.28, "x": 599.97},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 601.3},
+        {"type": "box", "preset": "default", "y": 1.28, "x": 602.64},
+        {
+            "type": "macro",
+            "y": 5.28,
+            "macroId": "coins_S",
+            "x": 605.9666666666667
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 4.95,
+            "x": 620.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 5.28,
+            "x": 621.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 5.28,
+            "x": 622.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 5.28,
+            "x": 623.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 5.28,
+            "x": 624.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 2.61,
+            "x": 620.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 2.28,
+            "x": 621.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 2.28,
+            "x": 622.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 2.28,
+            "x": 623.97
+        },
+        {
+            "type": "coin",
+            "preset": "default",
+            "y": 2.28,
+            "x": 624.97
+        },
+        {
+            "type": "exit",
+            "preset": "default",
+            "y": 11.95,
+            "x": 626.97
+        },
+        {
+            "type": "towerstart",
+            "preset": "default",
+            "y": 1.61,
+            "x": 5.33
+        },
+        {
+            "type": "comboText",
+            "preset": "exellent2",
+            "y": 2.95,
+            "x": 68.33
+        },
+        {
+            "type": "comboText",
+            "preset": "cool2",
+            "y": 3.95,
+            "x": 115.33
+        },
+        {
+            "type": "comboText",
+            "preset": "super2",
+            "y": 1.28,
+            "x": 129
+        },
+        {
+            "type": "comboText",
+            "preset": "super2",
+            "y": 2.95,
+            "x": 151
+        },
+        {
+            "type": "comboText",
+            "preset": "cool2",
+            "y": 2.95,
+            "x": 210.67
+        },
+        {
+            "type": "comboText",
+            "preset": "exellent2",
+            "y": 1.28,
+            "x": 223.67
+        },
+        {
+            "type": "comboText",
+            "preset": "super2",
+            "y": 4.61,
+            "x": 248.33
+        },
+        {
+            "type": "comboText",
+            "preset": "cool2",
+            "y": 1.28,
+            "x": 257
+        },
+        {
+            "type": "comboText",
+            "preset": "exellent2",
+            "y": 1.28,
+            "x": 283
+        },
+        {
+            "type": "comboText",
+            "preset": "cool2",
+            "y": 1.28,
+            "x": 331
+        },
+        {
+            "type": "comboText",
+            "preset": "super2",
+            "y": 1.28,
+            "x": 365.67
+        },
+        {
+            "type": "comboText",
+            "preset": "cool2",
+            "y": 1.28,
+            "x": 416
+        },
+        {
+            "type": "comboText",
+            "preset": "exellent2",
+            "y": 2.61,
+            "x": 429.33
+        },
+        {
+            "type": "comboText",
+            "preset": "cool2",
+            "y": 3.28,
+            "x": 446
+        },
+        {
+            "type": "comboText",
+            "preset": "super2",
+            "y": 1.28,
+            "x": 452.67
+        },
+        {
+            "type": "comboText",
+            "preset": "exellent",
+            "y": 4.61,
+            "x": 487
+        },
+        {
+            "type": "comboText",
+            "preset": "super",
+            "y": 5.28,
+            "x": 523.33
+        },
+        {
+            "type": "comboText",
+            "preset": "cool2",
+            "y": 1.28,
+            "x": 558
+        },
+        {
+            "type": "comboText",
+            "preset": "super2",
+            "y": 1.28,
+            "x": 578
+        },
+        {
+            "type": "comboText",
+            "preset": "exellent2",
+            "y": 1.28,
+            "x": 602.67
+        },
+        {
+            "type": "comboText",
+            "preset": "cool_down",
+            "y": 6.28,
+            "x": 121
+        },
+        {
+            "type": "comboText",
+            "preset": "exellent_down",
+            "y": 5.28,
+            "x": 154.33
+        },
+        {
+            "type": "comboText",
+            "preset": "cool_down",
+            "y": 6.28,
+            "x": 343
+        },
+        {
+            "type": "coin",
+            "preset": "gatling_box",
+            "y": 4.28,
+            "x": 347
+        },
+        {
+            "type": "coin",
+            "preset": "gatling_box",
+            "y": 1.28,
+            "x": 442
+        },
+        {
+            "type": "coin",
+            "preset": "gatling_box",
+            "y": 4.28,
+            "x": 236
+        },
+        {
+            "type": "tutorial",
+            "preset": "gatling",
+            "y": 1.28,
+            "x": 133
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.95,
+            "x": 51.85
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.95,
+            "x": 53.13
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 2.77,
+            "x": 54.05
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.22,
+            "x": 138.59
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 2.57,
+            "x": 139.7
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.09,
+            "x": 139.76
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.01,
+            "x": 141.42
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.1,
+            "x": 157.94
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.84,
+            "x": 158.99
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.12,
+            "x": 164.32
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 2.78,
+            "x": 188.12
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.03,
+            "x": 186.8
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.06,
+            "x": 187.93
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 2.8,
+            "x": 204.12
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 2.61,
+            "x": 205.09
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 2.81,
+            "x": 205.87
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 4.54,
+            "x": 250.05
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 4.17,
+            "x": 250.38
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 4.41,
+            "x": 251.02
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.17,
+            "x": 258.54
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.76,
+            "x": 259.43
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.14,
+            "x": 277.63
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.8,
+            "x": 278.54
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.96,
+            "x": 315.26
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.72,
+            "x": 316.18
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.99,
+            "x": 317.17
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.61,
+            "x": 317.77
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.76,
+            "x": 324.41
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.01,
+            "x": 325.41
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.97,
+            "x": 326.44
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.95,
+            "x": 332.95
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.09,
+            "x": 333.64
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 4.64,
+            "x": 354.36
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 5.18,
+            "x": 354.94
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 5.09,
+            "x": 353.78
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.13,
+            "x": 360.54
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.91,
+            "x": 361.5
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.82,
+            "x": 359.74
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.1,
+            "x": 376.82
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 2.89,
+            "x": 378.3
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.03,
+            "x": 378.1
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.89,
+            "x": 394.85
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 2.4,
+            "x": 391.41
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.02,
+            "x": 392.96
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.73,
+            "x": 401.13
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.76,
+            "x": 399.79
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.38,
+            "x": 400.36
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 5.48,
+            "x": 415.21
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 5.37,
+            "x": 416.03
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 5.21,
+            "x": 414.43
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 2.65,
+            "x": 427.88
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.17,
+            "x": 426.54
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.01,
+            "x": 427.67
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.31,
+            "x": 444.61
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.16,
+            "x": 443.57
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.8,
+            "x": 444.64
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.99,
+            "x": 461.79
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.9,
+            "x": 462.77
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.1,
+            "x": 463.57
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 2.84,
+            "x": 477.99
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.06,
+            "x": 476.23
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.75,
+            "x": 478.01
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.2,
+            "x": 502.07
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.79,
+            "x": 502.99
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.93,
+            "x": 505.47
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.82,
+            "x": 509.96
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.18,
+            "x": 528.71
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.75,
+            "x": 529.56
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.17,
+            "x": 530.51
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 4.15,
+            "x": 521.57
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.91,
+            "x": 522.95
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 4.03,
+            "x": 524.44
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.02,
+            "x": 542.75
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.84,
+            "x": 544.76
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.06,
+            "x": 547.2
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.78,
+            "x": 553.46
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.14,
+            "x": 554.23
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 3.54,
+            "x": 561.12
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.13,
+            "x": 559.84
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.94,
+            "x": 561.58
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 4.5,
+            "x": 575.62
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 4.25,
+            "x": 576.67
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 4.42,
+            "x": 577.57
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.89,
+            "x": 589.12
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.86,
+            "x": 590.3
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 4.44,
+            "x": 589.17
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.75,
+            "x": 598.74
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.99,
+            "x": 597.45
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.03,
+            "x": 605.11
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.93,
+            "x": 604.19
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.99,
+            "x": 598.37
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.12,
+            "x": 619.12
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.8,
+            "x": 620.38
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.79,
+            "x": 618.41
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 1.21,
+            "x": 610.82
+        },
+        {
+            "type": "birds",
+            "preset": "default",
+            "y": 0.97,
+            "x": 611.77
+        }
+    ],
+    "background": "backgroundtunnel2",
+    "buy4energy": true,
+    "params": {"startY": null}
+}

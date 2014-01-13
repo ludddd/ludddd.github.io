@@ -1,0 +1,10 @@
+{
+    "objects": [
+        {"x": 15, "y": 1.28, "preset": "booster_box", "type": "coin"},
+        {"x": 24, "y": 1.28, "preset": "booster_box", "type": "coin"},
+        {"x": 32, "y": 1.28, "preset": "booster_box", "type": "coin"},
+        {"x": 41, "y": 1.28, "preset": "booster_box", "type": "coin"},
+        {"x": 51, "y": 7.28, "preset": "default", "type": "exit"}
+    ],
+    "params": {"startY": 3}
+}

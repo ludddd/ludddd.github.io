@@ -1,0 +1,7 @@
+{
+    "objects": [
+        {"x": 20, "y": 1.28, "preset": "default", "type": "shooter"},
+        {"x": 12, "y": 1.28, "preset": "default", "type": "shooter"}
+    ],
+    "params": {"startY": 3}
+}

@@ -1,0 +1,48 @@
+{
+    "params": {"startY": null},
+    "objects": [
+        {
+            "type": "box",
+            "y": 1.28,
+            "preset": "rabbit",
+            "x": 12
+        },
+        {
+            "type": "box",
+            "y": 1.28,
+            "preset": "rabbit",
+            "x": 24
+        },
+        {
+            "type": "box",
+            "y": 1.28,
+            "preset": "rabbit",
+            "x": 38
+        },
+        {
+            "type": "rabbit",
+            "y": 3.28,
+            "preset": "rabbitOnBall",
+            "x": 46
+        },
+        {
+            "type": "rabbit",
+            "y": 3.28,
+            "preset": "rabbitOnBall",
+            "x": 57
+        },
+        {
+            "type": "rabbit",
+            "y": 3.28,
+            "preset": "rabbitOnBallLow",
+            "x": 67
+        },
+        {
+            "type": "rabbit",
+            "y": 3.28,
+            "preset": "rabbitOnBallLow",
+            "x": 78
+        }
+    ],
+    "buy4energy": false
+}

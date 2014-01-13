@@ -1,0 +1,39 @@
+{
+    "params": {"startY": null},
+    "objects": [
+        {
+            "x": 15,
+            "y": 8.28,
+            "preset": "factory1",
+            "type": "background_objects"
+        },
+        {
+            "x": 8,
+            "y": 8.28,
+            "preset": "factory2",
+            "type": "background_objects"
+        },
+        {"x": 8, "y": 3.28, "preset": "default", "type": "coin"},
+        {"x": 8, "y": 2.28, "preset": "default", "type": "coin"},
+        {"x": 15, "y": 2.28, "preset": "default", "type": "coin"},
+        {"x": 15, "y": 3.28, "preset": "default", "type": "coin"},
+        {"x": 21, "y": 2.28, "preset": "default", "type": "coin"},
+        {"x": 21, "y": 3.28, "preset": "default", "type": "coin"},
+        {
+            "x": 29,
+            "y": 8.28,
+            "preset": "factory1",
+            "type": "background_objects"
+        },
+        {
+            "x": 22,
+            "y": 9.28,
+            "preset": "factory2",
+            "type": "background_objects"
+        },
+        {"x": 29, "y": 2.28, "preset": "default", "type": "coin"},
+        {"x": 29, "y": 3.28, "preset": "default", "type": "coin"},
+        {"x": 36, "y": 3.28, "preset": "default", "type": "coin"},
+        {"x": 36, "y": 2.28, "preset": "default", "type": "coin"}
+    ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5f459802e6f75ac641782cb2b5c2fb29:25fec9925c4988ddb2bfc8149a477fba:9962f4a0da68ca229b05a77e712d5f05$ -->
+<TextureAtlas imagePath="task.png">
+    <SubTexture name="icons_col_batter" x="2" y="2" width="128" height="128"/>
+    <SubTexture name="icons_col_bust" x="132" y="2" width="128" height="128"/>
+    <SubTexture name="icons_col_less_xcogs" x="262" y="2" width="128" height="128"/>
+    <SubTexture name="icons_col_xbird" x="392" y="2" width="128" height="128"/>
+    <SubTexture name="icons_col_xlamp" x="522" y="2" width="128" height="128"/>
+    <SubTexture name="icons_col_xrabbit" x="652" y="2" width="128" height="128"/>
+    <SubTexture name="icons_colx_cogs" x="782" y="2" width="128" height="128"/>
+    <SubTexture name="icons_destr_lamp" x="2" y="132" width="128" height="128"/>
+    <SubTexture name="icons_destr_less_xbox" x="132" y="132" width="128" height="128"/>
+    <SubTexture name="icons_destr_less_xrockets" x="262" y="132" width="128" height="128"/>
+    <SubTexture name="icons_destr_less_xturet" x="392" y="132" width="128" height="128"/>
+    <SubTexture name="icons_destr_xmonstrs" x="522" y="132" width="128" height="128"/>
+    <SubTexture name="icons_destr_xrockets" x="652" y="132" width="128" height="128"/>
+    <SubTexture name="icons_destr_xturet" x="782" y="132" width="128" height="128"/>
+    <SubTexture name="icons_health_xtimes" x="2" y="262" width="128" height="128"/>
+    <SubTexture name="icons_jamp_xtimes" x="132" y="262" width="128" height="128"/>
+    <SubTexture name="icons_no_col_bust" x="262" y="262" width="128" height="128"/>
+    <SubTexture name="icons_nopush_button" x="392" y="262" width="128" height="128"/>
+    <SubTexture name="icons_push_button" x="522" y="262" width="128" height="128"/>
+    <SubTexture name="icons_shot_less_xtimes" x="652" y="262" width="128" height="128"/>
+    <SubTexture name="icons_shot_xtimes" x="782" y="262" width="128" height="128"/>
+    <SubTexture name="icons_trophy_BFG" x="2" y="392" width="128" height="128"/>
+    <SubTexture name="icons_trophy_calculator" x="132" y="392" width="128" height="128"/>
+    <SubTexture name="icons_trophy_empty" x="262" y="392" width="128" height="128"/>
+    <SubTexture name="icons_trophy_lantern" x="392" y="392" width="128" height="128"/>
+    <SubTexture name="icons_trophy_robot" x="522" y="392" width="128" height="128"/>
+    <SubTexture name="icons_trophy_sculpture_speaker" x="652" y="392" width="128" height="128"/>
+    <SubTexture name="icons_trophy_sculpture_venus" x="782" y="392" width="128" height="128"/>
+    <SubTexture name="icons_trophy_wrench" x="2" y="522" width="128" height="128"/>
+    <SubTexture name="tasck_icons_box" x="132" y="522" width="128" height="128"/>
+</TextureAtlas>

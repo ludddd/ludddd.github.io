@@ -1,0 +1,42 @@
+{
+    "objects": [
+        {"type": "comboText", "y": 1.28, "preset": "cool", "x": 7},
+        {"type": "comboText", "y": 2.28, "preset": "cool2", "x": 7},
+        {
+            "type": "comboText",
+            "y": 3.28,
+            "preset": "exellent",
+            "x": 7
+        },
+        {
+            "type": "comboText",
+            "y": 4.28,
+            "preset": "exellent2",
+            "x": 7
+        },
+        {"type": "comboText", "y": 5.28, "preset": "super6", "x": 7},
+        {"type": "comboText", "y": 6.28, "preset": "super", "x": 7},
+        {"type": "comboText", "y": 1.28, "preset": "cool2", "x": 20},
+        {
+            "type": "comboText",
+            "y": 1.28,
+            "preset": "exellent",
+            "x": 32
+        },
+        {
+            "type": "comboText",
+            "y": 1.28,
+            "preset": "exellent2",
+            "x": 46
+        },
+        {"type": "comboText", "y": 1.28, "preset": "super", "x": 57},
+        {
+            "type": "comboText",
+            "y": 1.28,
+            "preset": "super6",
+            "x": 70
+        }
+    ],
+    "buy4energy": false,
+    "params": {"startY": null}
+}

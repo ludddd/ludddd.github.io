@@ -1,0 +1,70 @@
+{
+    "objects": [
+        {
+            "type": "rabbit",
+            "preset": "rabbitOnBall",
+            "y": 6.28,
+            "x": 11
+        },
+        {"type": "box", "preset": "rabbit", "y": 1.28, "x": 11},
+        {"type": "box", "preset": "rabbit", "y": 1.28, "x": 13},
+        {"type": "coin", "preset": "default", "y": 5.28, "x": 13},
+        {"type": "coin", "preset": "default", "y": 3.28, "x": 10},
+        {"type": "box", "preset": "rabbit", "y": 1.28, "x": 22},
+        {"type": "box", "preset": "rabbit", "y": 1.28, "x": 31},
+        {"type": "box", "preset": "rabbit", "y": 1.28, "x": 40},
+        {"type": "box", "preset": "rabbit", "y": 1.28, "x": 51},
+        {"type": "box", "preset": "rabbit", "y": 1.28, "x": 62},
+        {"type": "coin", "preset": "rabbit_fly", "y": 2.28, "x": 18},
+        {"type": "coin", "preset": "rabbit_fly", "y": 2.28, "x": 26},
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 4.28,
+            "width": 561,
+            "x": 17
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.28,
+            "width": 457,
+            "x": 28
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.28,
+            "width": 353,
+            "x": 37
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.28,
+            "width": 457,
+            "x": 47
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.28,
+            "width": 353,
+            "x": 59
+        },
+        {
+            "type": "platform",
+            "preset": "default",
+            "y": 2.28,
+            "width": 457,
+            "x": 68
+        },
+        {"type": "box", "preset": "rabbit", "y": 4.28, "x": 71},
+        {"type": "box", "preset": "rabbit", "y": 4.28, "x": 50},
+        {"type": "box", "preset": "rabbit", "y": 4.28, "x": 41},
+        {"type": "box", "preset": "rabbit", "y": 4.28, "x": 33},
+        {"type": "box", "preset": "rabbit", "y": 6.28, "x": 23}
+    ],
+    "params": {"startY": null},
+    "buy4energy": false
+}

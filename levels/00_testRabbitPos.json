@@ -1,0 +1,26 @@
+{
+    "objects": [
+        {"type": "box", "y": 2.28, "preset": "default", "x": 13},
+        {"type": "box", "y": 4.28, "preset": "default", "x": 16},
+        {
+            "type": "rabbit",
+            "y": 2.28,
+            "preset": "rabbitInBox",
+            "x": 16
+        },
+        {
+            "type": "rabbit",
+            "y": 4.28,
+            "preset": "rabbitOnBall",
+            "x": 18
+        },
+        {
+            "type": "rabbit",
+            "y": 6.28,
+            "preset": "rabbitOnBallFast",
+            "x": 13
+        }
+    ],
+    "buy4energy": false,
+    "params": {"startY": null}
+}

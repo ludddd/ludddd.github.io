@@ -1,0 +1,16 @@
+{
+    "params": {"startY": null},
+    "objects": [
+        {
+            "x": 1,
+            "y": 1.78,
+            "preset": "default",
+            "type": "towerstart"
+        },
+        {"x": 4, "y": 7.28, "preset": "default", "type": "coin"},
+        {"x": 29, "y": 11.78, "preset": "default", "type": "exit"},
+        {"x": 4, "y": 2.28, "preset": "default", "type": "coin"},
+        {"x": 23, "y": 2.28, "preset": "default", "type": "coin"},
+        {"x": 26.67, "y": 2.28, "preset": "default", "type": "coin"}
+    ]
+}
